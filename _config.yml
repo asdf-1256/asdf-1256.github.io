@@ -14,7 +14,7 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: YUN-JAEYEONG # the main title
+title: YOON-JAEYEONG # the main title
 
 tagline: 컴퓨터공학을 공부 중인 대학생입니다. コンピューター工学を勉強している学生です # it will display as the subtitle
 
@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
 url: ""
 
 github:
-  username: YUN-JAEYEONG # change to your GitHub username
+  username: YOON-JAEYEONG # change to your GitHub username
 
 twitter:
   username: # twitter_username # change to your Twitter username
@@ -34,12 +34,12 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: YUN JAEYEONG
+  name: YOON JAEYEONG
   email: 22112106@yu.ac.kr # change to your email address
   links:
     # The first element serves as the copyright owner's link
     # - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/YUN-JAEYEONG # change to your GitHub homepage
+    - https://github.com/YOON-JAEYEONG # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
